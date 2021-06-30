@@ -26,46 +26,65 @@ class YourMod(loader.Module):
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)  
+        await asyncio.sleep(621)  
 
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)
+        await asyncio.sleep(621)
           
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)  
+        await asyncio.sleep(621)  
 
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)
+        await asyncio.sleep(621)
           
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)  
+        await asyncio.sleep(621)  
 
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)
+        await asyncio.sleep(621)
           
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
 
-        await asyncio.sleep(666)  
+        await asyncio.sleep(621)  
 
         await event.respond("🕹 Действия")
         await asyncio.sleep(1)  
         await event.respond("👮 Патрулируем")
+
+        await asyncio.sleep(621)  
+
+        await event.respond("🕹 Действия")
+        await asyncio.sleep(1)  
+        await event.respond("👮 Патрулируем")
+
+        await asyncio.sleep(621)  
+
+        await event.respond("🕹 Действия")
+        await asyncio.sleep(1)  
+        await event.respond("👮 Патрулируем")
+
+        await asyncio.sleep(621)  
+
+        await event.respond("🕹 Действия")
+        await asyncio.sleep(1)  
+        await event.respond("👮 Патрулируем")
+
 
         
